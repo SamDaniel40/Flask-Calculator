@@ -1,6 +1,6 @@
 # Flask Calculator
 
-Created a Flask Calculator which contains 2 types of Calculators -
+Created a Flask Calculator which contains 2 types of Calculators :-
 I. Simple Calculator - It can perform operations with Simple Mathematical Functions like Addition, Subtraction, MUltiplication & Division.
 II. Advanced Calculator - It can perform operations with Advanced Mathematical Functions like log, cos, sin, tan etc.
 
